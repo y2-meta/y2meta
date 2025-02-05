@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://y2-meta.github.io/y2meta/sitemap.xml
